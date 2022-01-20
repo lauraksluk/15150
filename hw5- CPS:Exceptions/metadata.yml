@@ -1,0 +1,12 @@
+---
+:id: 39057883
+:submitters:
+- :name: Laura Luk
+  :email: kluk@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-06-14 21:49:19.052134000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-06-14 14:49:19.052134000 Z
+:status: processed
+:score: 106.2
